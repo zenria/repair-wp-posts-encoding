@@ -13,3 +13,5 @@ The trick is:
 - convert binary columns to utf8
 
 To run this tool, you need to set an environment variable: `DATABASE_URL`.
+
+Reference: <https://www.percona.com/blog/converting-character-sets/>
